@@ -1,6 +1,9 @@
 # aicore_cityhall
 City Services for Aicore
 
+> 💬 **Need help or want to support Aicore?** Join our Discord: [https://discord.gg/xfQFcWjak](https://discord.gg/xfQFcWjak)
+
+
 ## Features
 - Ability to request id card and drivers license
 - Ability to request weapon license when granted it by the police
